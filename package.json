@@ -13,7 +13,7 @@
     "axios": ">=0.21.0",
     "axios-cookiejar-support": "^1.0.0",
     "easy-pdf-merge": "^0.2.5",
-    "html-pdf": "^2.2.0",
+    "html-pdf": ">=3.0.1",
     "tough-cookie": "^4.0.0"
   }
 }
